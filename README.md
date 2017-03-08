@@ -7,7 +7,7 @@ Esse é o nosso desafio para você! O objetivo é avaliar o seu conhecimento e h
 Criar um crawler que leia o feed da [revista auto esporte] (http://revistaautoesporte.globo.com/rss/ultimas/feed.xml)
 e retorne um json estruturado da seguinte forma:
 
-```json
+```
 {
     'feed': [
         'item': {
