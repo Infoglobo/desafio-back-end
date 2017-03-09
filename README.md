@@ -1,10 +1,10 @@
-# Quer trabalhar em nosso time de backends?
+# Quer trabalhar em nosso time de Engenharia Backend?
 
-Esse é o nosso desafio para você! O objetivo é avaliar o seu conhecimento e habilidades.
+Esse é o nosso desafio para você! O objetivo é avaliar o seu conhecimento e habilidades em desenvolvimento backend.
 
 # Desafio
 
-Criar um crawler que leia este [feed] (http://revistaautoesporte.globo.com/rss/ultimas/feed.xml)
+Criar um crawler que leia [este feed] (http://revistaautoesporte.globo.com/rss/ultimas/feed.xml)
 e retorne um json estruturado da seguinte forma:
 
 ```
