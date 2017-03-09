@@ -61,7 +61,7 @@ Para escrever o teste sinta-se a vontade para usar linguagem e tecnologia que de
 * Organização e legibilidade do código;
 * Desafio extra:
   * Implementar como um webservice;
-  * Implementar proteção para que somente usuários autorizados consigam acessar o webservice;
+  * Permitir que somente usuários cadastrados possam acessar o webservice;
 
 
 ## Exemplo do retorno
