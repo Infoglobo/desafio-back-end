@@ -53,6 +53,7 @@ e retorne um json estruturado da seguinte forma:
 
 Para escrever o teste sinta-se a vontade para usar linguagem e tecnologia que desejar mas lembre-se a proposta é avaliar a sua capacidade como desenvolvedor.
 
+Ao concluir, publique o resultado em seu repositório e envie-nos a URL de seu desafio para que possamos avaliar.
 
 ## Diferenciais
 
