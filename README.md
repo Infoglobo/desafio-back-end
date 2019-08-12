@@ -60,9 +60,8 @@ Ao concluir, publique o resultado em seu repositório e envie-nos a URL de seu d
 * Cobertura de testes;
 * Projeto conteinerizado;
 * Organização e legibilidade do código;
-* Desafio extra:
-  * Implementar como um webservice;
-  * Permitir que somente usuários cadastrados possam acessar o webservice;
+* Implementar como um webservice;
+* Permitir que somente usuários cadastrados possam acessar o webservice;
 
 
 ## Exemplo do retorno
